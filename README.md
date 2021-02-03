@@ -58,5 +58,5 @@ Areas for further development include utilizing Google Maps API, to give user ne
 - Jacob Feitler
 - Carly Peyton
 
-- Artwork by Megan Broski @melon.dreams
+- Artwork by Megan Broski @melon.dreams.
 
